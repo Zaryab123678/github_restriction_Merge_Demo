@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is second file and merge it
+=======
+This is second file 
+who are you
+>>>>>>> origin/master
