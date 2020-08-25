@@ -5,5 +5,5 @@
 
 1. Heading
 2. Style
-    - Bold
-    - Italic Strike through
+    - **Bold**
+    - --Italic Strike through--
