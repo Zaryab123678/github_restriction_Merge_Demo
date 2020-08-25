@@ -7,3 +7,4 @@
 2. Style
     - **Bold**
     - __Italic Strike through__
+~ strike through ~
