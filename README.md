@@ -6,4 +6,4 @@
 1. Heading
 2. Style
     - **Bold**
-    - --Italic Strike through--
+    - _ _Italic Strike through_ _
