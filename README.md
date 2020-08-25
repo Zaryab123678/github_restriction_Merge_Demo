@@ -19,3 +19,4 @@ ty8ry
 - [] zaryab
 - [] zar
 - [x] she
+- [x] zaryab
