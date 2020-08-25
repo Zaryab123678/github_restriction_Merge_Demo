@@ -15,3 +15,7 @@ t9-n0ety
 ty8try8rt
 ty8ry
 ***
+- [x] zaryab
+- [] zaryab
+- [] zar
+- [x] she
